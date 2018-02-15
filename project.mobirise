@@ -32,7 +32,7 @@
             "showText": false,
             "showButtons": false,
             "showArrow": true,
-            "contentAlign": "right",
+            "contentAlign": "center",
             "bgImageRadio": false,
             "bgImage": "images/bg.jpg",
             "parallax": true,
