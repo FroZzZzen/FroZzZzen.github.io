@@ -41,7 +41,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/-128x128_3.png",
+    "favicon": "",
     "noImageResize": ""
   },
   "pages": {
