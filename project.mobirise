@@ -18,8 +18,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Ведутся Технические работы",
-        "meta_descr": "ЭТО ТЕСТ",
+        "title": "Что-то пошло не так",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
