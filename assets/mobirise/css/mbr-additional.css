@@ -1,7 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
+
 #header4-1 H1 {
-  color: #ffffff;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #header4-1 SPAN {
   font-family: 'Indie Flower', cursive;

@@ -46,7 +46,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">К сожалению, сервер временно недоступен. Попробуйте повторить действие чуть позже.<br></span><br>",
+          "title": "К сожалению, сервер временно недоступен. Попробуйте повторить действие чуть позже.\n<div><br></div>",
           "text": "Бесплатно создавайте адаптивные сайты без навыков веб-программирования!",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobiriz.store\">Для Windows</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobiriz.store\" data-toolbar=\"-mbrBtnMove\">Для Mac</a>",
           "_tags": [
@@ -57,7 +57,11 @@
           "_anchor": "header4-1",
           "_styles": {
             "H1": {
-              "color": "#ffffff"
+              "color": "#000000",
+              "font-size": "14px",
+              "text-align": "center",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             },
             "SPAN": {
               "font-family": "'Indie Flower', cursive",
